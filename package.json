@@ -1,0 +1,34 @@
+{
+  "name": "slideintoo-website",
+  "version": "1.0.0",
+  "description": "A modern, responsive website for Slideintoo",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server .",
+    "build": "echo 'Build process would go here'",
+    "test": "echo 'Tests would go here'"
+  },
+  "keywords": [
+    "website",
+    "responsive",
+    "html",
+    "css",
+    "javascript",
+    "slideintoo"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/slideintoo-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/slideintoo-website/issues"
+  },
+  "homepage": "https://github.com/yourusername/slideintoo-website#readme"
+}
